@@ -16,7 +16,7 @@ This repository contains a curated collection of core Natural Language Processin
 * Implements stemming using:
 
   * `PorterStemmer`
-  * `LancasterStemmer`
+  * `Regular Expression Stemmer Class `
   * `SnowballStemmer`
 
 ### 🔹 Lemmatization
@@ -39,7 +39,7 @@ This repository contains a curated collection of core Natural Language Processin
 
 ## 🛠 Requirements
 
-Ensure the following Python libraries are installed:
+Ensure that the following Python libraries are installed:
 
 ```bash
 pip install nltk
@@ -55,6 +55,7 @@ nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
 nltk.download('maxent_ne_chunker')
 nltk.download('words')
+...
 ```
 
 This notebook is ideal for:
