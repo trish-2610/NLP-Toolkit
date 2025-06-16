@@ -1,17 +1,17 @@
-# 🧠 NLP Functions Collection
+## NLP Functions Collection
 
 This repository contains a curated collection of core Natural Language Processing (NLP) functions implemented using Python and NLTK. The goal is to provide a ready-to-use reference for commonly used NLP operations such as tokenization, stemming, lemmatization, stopword removal, POS tagging, and more.
 
 ---
 
-## 📚 Features Covered
+### Features Covered
 
-### 🔹 Tokenization
+#### 🔹 Tokenization
 
 * **Sentence Tokenization:** Breaks paragraphs into individual sentences using `sent_tokenize`.
 * **Word Tokenization:** Splits sentences into individual words using `word_tokenize`.
 
-### 🔹 Stemming
+####🔹 Stemming
 
 * Implements stemming using:
 
@@ -19,25 +19,25 @@ This repository contains a curated collection of core Natural Language Processin
   * `Regular Expression Stemmer Class `
   * `SnowballStemmer`
 
-### 🔹 Lemmatization
+#### 🔹 Lemmatization
 
 * Uses WordNet lemmatizer (`WordNetLemmatizer`) to reduce words to their base form.
 
-### 🔹 Stopword Removal
+#### 🔹 Stopword Removal
 
 * Filters out common English stopwords using NLTK's predefined list.
 
-### 🔹 POS Tagging
+#### 🔹 POS Tagging
 
 * Performs Part-of-Speech tagging using `pos_tag` on tokenized text.
 
-### 🔹 Named Entity Recognition (NER)
+#### 🔹 Named Entity Recognition (NER)
 
 * Demonstrates chunking using `ne_chunk` for identifying named entities.
 
 ---
 
-## 🛠 Requirements
+### Requirements
 
 Ensure that the following Python libraries are installed:
 
@@ -66,7 +66,7 @@ This notebook is ideal for:
 
 ---
 
-## 🧑‍💻 Author
+### Author
 
 Made with ❤️ by **Trishansh**
 
