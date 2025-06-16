@@ -11,7 +11,7 @@ This repository contains a curated collection of core Natural Language Processin
 * **Sentence Tokenization:** Breaks paragraphs into individual sentences using `sent_tokenize`.
 * **Word Tokenization:** Splits sentences into individual words using `word_tokenize`.
 
-####🔹 Stemming
+#### 🔹 Stemming
 
 * Implements stemming using:
 
