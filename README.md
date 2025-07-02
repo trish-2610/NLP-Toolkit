@@ -3,7 +3,6 @@
 This repository contains a curated collection of core Natural Language Processing (NLP) functions implemented using Python and NLTK. The goal is to provide a ready-to-use reference for commonly used NLP operations such as tokenization, stemming, lemmatization, stopword removal, POS tagging, and more.
 
 ---
-
 ### Features Covered
 
 #### 🔹 Tokenization
